@@ -275,5 +275,14 @@
       "Nice work renaming the branch locally and on the remote!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1790758143.718793,
+    "completed_at": 1790758147.754641,
+    "comments": [
+      "Something bad happened"
+    ],
+    "status": "Incomplete"
   }
 ]
